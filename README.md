@@ -26,12 +26,18 @@ There are a lot of things we can do with it. Let's do it.
 
 # What is in the pipe?
 
-I am in the process of aggregating other story telling datasets, starting with TEDx and TEDed. It will be added to this repo.
+- I am in the process of aggregating other story telling datasets, starting with TEDx and TEDed. It will be added to this repo.
+- Various NLP and data viz scripts (Though, I am not completely convinced they should be part of this repo.)
+
 
 # Stuff you can do?
 
-Spread the story, build cool stuff using this data, parse this in interesting ways, help spread stories that inspire, make the world a better place...you get it.
+Spread the story, build cool stuff using this data, contribute data or scripts to this repository, parse this in interesting ways, help spread stories that inspire, make the world a better place...you get it.
 
 Issues, PRs welcome.
+
+# Other stuff
+- The folder structure is weird because Github only allows 1000 files per folder. So, I tried to logically break the folders in alphabetical order.
+- I will add a Table of contents at the root data folder for easy navigation along with a source JSON that has metadata for a talk.
 
 And, be sure to watch this space :)
