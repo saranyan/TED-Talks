@@ -1,12 +1,15 @@
 # What?
 
-This is a collection of the extracted narratives from TED talks, that has been parsed and cleaned.
+This is a collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been parsed and cleaned.
 
 # Why?
 
 TED is an incredible organization that has brought stunning stories about the human race, its evolution, its advancements and challenges to the masses. And, I want to help spread these stories. (BTW, thank you Chris for changing our world!)
 
-With over 2500 (at the time of this writing) talks, TED has recorded over an incredible 34500 minutes (give or take), which is 24 days of listening/viewing.
+With about 2500 (at the time of this writing) talks, TED has recorded over an incredible 34500 minutes (give or take), which is 24 days of listening/viewing.
+
+[Note - TEDx ~ 40,000 mins, TEDEd ~ 9500 mins]
+
 
 Unlike A/V files, text has few advantages:
 - Reading is faster than listening.
@@ -26,7 +29,7 @@ There are a lot of things we can do with it. Let's do it.
 
 # What is in the pipe?
 
-- I am in the process of aggregating other story telling datasets, starting with TEDx and TEDed. It will be added to this repo.
+- ~~I am in the process of aggregating other story telling datasets, starting with TEDx and TEDed. It will be added to this repo.~~ Done.
 - Various NLP and data viz scripts (Though, I am not completely convinced they should be part of this repo.)
 
 
@@ -39,5 +42,6 @@ Issues, PRs welcome.
 # Other stuff
 - The folder structure is weird because Github only allows 1000 files per folder. So, I tried to logically break the folders in alphabetical order.
 - I will add a Table of contents at the root data folder for easy navigation along with a source JSON that has metadata for a talk.
+- Currently all talks are only in English. I have aggregated other language talks as well but I need some help with parsing and cleaning those. If you want to help, reach out.
 
 And, be sure to watch this space :)
