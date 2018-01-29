@@ -1,6 +1,6 @@
 # What?
 
-This is a collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been parsed and cleaned.
+This is a collection of the extracted narratives from TED (TED, TEDx, TEDEd, TEDArchive) talks, that has been parsed and cleaned.
 
 # Why?
 
