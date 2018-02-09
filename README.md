@@ -1,6 +1,7 @@
 # What?
 
 This is a collection of the extracted narratives from TED (TED, TEDx, TEDEd, TEDArchive) talks, that has been parsed and cleaned.
+This is also the data powering https://ted.saranyan.com
 
 # Why?
 
